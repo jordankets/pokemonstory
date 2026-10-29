@@ -11,7 +11,7 @@ body {
 	margin-right: auto;
 }
 body#background {
-	background-image: url("img/001.png");
+	background-image: url("sources/001.png");
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -27,10 +27,6 @@ body#background {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	text-align: center;
-	/* volgende drie regels enkel nodig voor mijn eigen BuyMeACoffee */
-	display: flex;	
-	justify-content: center;
-	align-items: center;
 }
 .paragraaf {
 	text-indent: 50px;
